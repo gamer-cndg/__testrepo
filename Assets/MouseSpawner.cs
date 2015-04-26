@@ -20,7 +20,6 @@ public class MouseSpawner : MonoBehaviour {
 		if (GUI.Button (new Rect (10, 60, 80, 25), "Disable / Enable Mouse Spawn")) {
 			isEnabled = !isEnabled;
 		}
-
 	}
 
 	// Update is called once per frame

@@ -94,5 +94,4 @@ public class Block : MonoBehaviour
 	{
 		return String.Format ("ID = {0}, Name = {1}, X = {2}, Y = {3}, State = {4}", this.ID, this.Name, this.X, this.Y, this.State);
 	}
-
 }
