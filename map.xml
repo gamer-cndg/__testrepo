@@ -1,0 +1,58 @@
+<blocklist>
+  <block>
+    <id>0</id>
+    <name>nameless</name>
+    <x>0</x>
+    <y>0</y>
+    <state>100</state>
+  </block>
+  <block>
+    <id>0</id>
+    <name>someother</name>
+    <x>1</x>
+    <y>0</y>
+    <state>100</state>
+  </block>
+  <block>
+    <id>1</id>
+    <name>nameless3</name>
+    <x>1</x>
+    <y>1</y>
+    <state>100</state>
+  </block>
+  <block>
+    <id>0</id>
+    <name>nameless4</name>
+    <x>0</x>
+    <y>1</y>
+    <state>100</state>
+  </block>
+  <block>
+    <id>0</id>
+    <name>Block 17606ef6</name>
+    <x>7</x>
+    <y>0</y>
+    <state>100</state>
+  </block>
+  <block>
+    <id>0</id>
+    <name>Block 77531df1</name>
+    <x>6</x>
+    <y>2</y>
+    <state>100</state>
+  </block>
+  <block>
+    <id>0</id>
+    <name>Block 50f68784</name>
+    <x>-1</x>
+    <y>3</y>
+    <state>100</state>
+  </block>
+  <block>
+    <id>0</id>
+    <name>Block 35c46b67</name>
+    <x>-13</x>
+    <y>3</y>
+    <state>100</state>
+  </block>
+</blocklist>

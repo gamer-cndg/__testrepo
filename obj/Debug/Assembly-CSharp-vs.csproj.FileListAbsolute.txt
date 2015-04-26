@@ -1,0 +1,13 @@
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\Temp\bin\Debug\UnityEditor.dll
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\Temp\bin\Debug\UnityEngine.dll
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\obj\Debug\Assembly-CSharp.dll
+C:\Users\diego_000\Documents\UnityProjects\TerrariaClone\obj\Debug\Assembly-CSharp.pdb
