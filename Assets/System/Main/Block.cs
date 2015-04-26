@@ -89,7 +89,7 @@ public class Block : MonoBehaviour
 		return blocks;
 	}
 
-	/* Try to get some usefull information from this object */
+	/* Try to get some usefull information from this object  */
 	public override String ToString()
 	{
 		return String.Format ("ID = {0}, Name = {1}, X = {2}, Y = {3}, State = {4}", this.ID, this.Name, this.X, this.Y, this.State);
